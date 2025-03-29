@@ -1,0 +1,26 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  --grey-light:#c4bebb; 
+  --grey: #a9a9a9;
+  --grey-dark: #545454;
+  --black: #272929;
+  --red: #9a2257;
+  --green: #84d07d;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+body {
+  display: flex;
+  justify-content: center;
+  background-color: rgba(211, 24, 24, 0.87);
+}
+
+
