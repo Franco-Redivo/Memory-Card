@@ -1,4 +1,4 @@
-import "../styles/cardsContainer.css";
+import "../Styles/cardsContainer.css";
 
 const Card = ({ name, sprite, onChange}) => {
     return (

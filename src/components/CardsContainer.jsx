@@ -1,5 +1,5 @@
 import Card from './Card.jsx';
-import "../styles/cardsContainer.css";
+import "../Styles/cardsContainer.css";
 
 const CardsContainer = ({ pokemonsList,onChange }) => {
     const displayedPokemons = pokemonsList.slice(0, 10);
